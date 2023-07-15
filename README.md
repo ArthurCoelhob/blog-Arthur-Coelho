@@ -20,7 +20,7 @@ A aplicação segue uma arquitetura baseada em componentes, onde cada elemento d
 Instalação e Execução
 
 
-Clone este repositório em sua máquina local.
+##Clone este repositório em sua máquina local.
 Acesse a pasta do projeto: cd blog-Arthur-Coelho.
 Instale as dependências do projeto: npm install.
 Inicie o servidor de desenvolvimento: npm run serve.
